@@ -1,17 +1,5 @@
-header {
-    background: url("img/sports.jpg");
+body {
+    background-image: url("img/balls.jpg");
     background-size: cover;
-    text-align: center;
-    color: white;
-    height: 200px;
-}
-
-li {
-    display: inline;
-    padding: 0px 20px 0px 20px;
-}
-
-a {
-    color: white;
-    text-decoration: none;
+    background-position: center;
 }
