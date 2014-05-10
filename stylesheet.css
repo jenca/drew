@@ -1,5 +1,22 @@
+@font-face {
+    font-family: originb;
+    src: url(font/originb.ttf);
+}
+
 body {
     background-image: url("img/balls.jpg");
     background-size: cover;
     background-position: center;
+    text-align: center;
+}
+
+p {
+    font-size: 24px;
+    font-family: originb;
+}
+
+input {
+    border: 0;
+    padding: 10px;
+    font-size: 18px;
 }
